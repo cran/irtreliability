@@ -1,0 +1,5 @@
+export("irtreliability")
+exportClasses("relout")
+
+import(graphics, methods, stats, ltm, mirt, fastGHQuad)
+importFrom("utils", "data", "tail")
